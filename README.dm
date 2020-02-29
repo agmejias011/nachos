@@ -6,7 +6,7 @@
 Roland Aroche (panther ID: 6122697)
 Andres Gonzalez Mejias (panther ID: 6111238)
 Liz Piedra (panther ID: 6093028)
-David Gaspe (panther ID: ) 
+David Gaspe (panther ID: 5455957) 
 
 **Tasks:**
 1. (20%, 5 lines) Implement KThread.join().
